@@ -202,7 +202,7 @@ This project outlines the implementation of on-premises Active Directory within 
   Open PowerShell_ise as an administrator.
 </p> 
 <p>  
-  Create a new File and paste the contents of this script (https://github.com/awortham1/configure-active-directory/blob/script/createUsers.ps1) into it:
+  Create a new File and paste the contents of this script (https://github.com/awortham1/azure-activedirectory/blob/script/createUsers.ps1) into it:
 </p>
 <p>
   <img src="https://i.imgur.com/0i8uApf.png" height="75%" width="100%" alt="create users script"/>
