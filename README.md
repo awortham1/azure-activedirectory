@@ -3,7 +3,7 @@
 </p>
 
 <h1>Configuring Active Directory (On-Premises) Within Azure</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This project outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
 <!-- <h2>Video Demonstration</h2>
